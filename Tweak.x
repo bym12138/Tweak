@@ -2,7 +2,7 @@
 
 + (id)createFocusAdViewWithConfig:(id)arg1 openFocusAdCallBack:(id)arg2 closeFocusAdCallBack:(id)arg3 {
 	return nil;
-	// 修复bug
+	// 修复bug...
 }
 
 %end
