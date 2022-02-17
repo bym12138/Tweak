@@ -1,0 +1,10 @@
+Package: com.bympro.com
+Name: bym
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Mr.b 
+Author: Mr.b 
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-25
+Installed-Size: 200
